@@ -38,6 +38,13 @@ src/config.h.in
 src/foobillardplus
 src/stamp-h1
 
+# CMake build trees and generated files
+/build/
+/CMakeFiles/
+/CMakeCache.txt
+/cmake_install.cmake
+/compile_commands.json
+
 # Mac specific things
 .DS_Store
 xcuserdata/
